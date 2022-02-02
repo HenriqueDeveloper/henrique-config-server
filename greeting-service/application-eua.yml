@@ -8,6 +8,6 @@ management:
         include:
         - '*'
 henrique-service:
- greeting: "Hello"
+ greeting: "Hola"
  default-value: "World"
         
