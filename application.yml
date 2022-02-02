@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: henrique-service
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+        - '*'
+henrique-service:
+ greeting: "Hello"
+ default-value: "World"
+        
